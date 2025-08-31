@@ -2,4 +2,5 @@
 Project Bot AI (Artifical Intelegent) Legion7_BotAI 
 
 
-https://github.com/ITCYBERSECURITY-LEGION7-TEAM/Legion7_BotAI/blob/main/IMG-20250831-WA0293.jpg
+
+<a href="https://ibb.co.com/fdB8FB7N"><img src="https://i.ibb.co.com/b5qHmqnv/Sample-Screen-Shot.jpg" alt="Sample-Screen-Shot" border="0"></a>
